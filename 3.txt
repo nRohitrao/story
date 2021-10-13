@@ -1,0 +1,1 @@
+This is 3.txt file inside the git repository after the sencond file 2.txt and after the first commit

@@ -1,0 +1,1 @@
+This is 2.txt file inside the git repository to after the first commit.
