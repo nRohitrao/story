@@ -1,1 +1,2 @@
-This will be the 1st edit in git by gitbash
+This will be the 1st edit in git by gitbash.
+This will go to alien-plot master branch 1st edit or first commit.
